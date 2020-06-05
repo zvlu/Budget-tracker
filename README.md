@@ -1,6 +1,8 @@
 # Online/Offline Budget-Tracker
 A budget tracker that is able to add expenses and deposits to a user's budget with or without a connection.
 
+![test img](public\images\budget-tracker.png)
+
 ## User Story
 AS AN avid traveller
 I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
